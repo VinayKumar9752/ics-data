@@ -1145,7 +1145,8 @@
         "os": null,
         "productName": "OpenSSH",
         "vendorName": "EDIS GmbH"
-    },{
+    },
+    {
         "ip": "197.189.217.247",
         "ports": [
             2096,
