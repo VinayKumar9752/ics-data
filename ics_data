@@ -3489,7 +3489,8 @@
         "os": null,
         "productName": "net-snmp",
         "vendorName": "INTERSAT"
-    },{
+    },
+    {
         "ip": "204.186.31.45",
         "ports": [
             5985,
