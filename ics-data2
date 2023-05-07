@@ -12416,5 +12416,669 @@
         "os": null,
         "productName": "OpenSSH",
         "vendorName": "the network covers whole Krakow area"
+    },
+    
+    {
+        "ip": "36.26.83.4",
+        "ports": [
+            8082,
+            3389
+        ],
+        "os": null,
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "CHINANET-ZJ network",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "3.7.129.20",
+        "ports": [
+            80,
+            3000,
+            443,
+            22,
+            3001
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Amazon Data Services India",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "79.173.84.233",
+        "ports": [
+            81,
+            53
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "IT REGION Network",
+        "deviceName": ""
+    },
+    {
+        "ip": "156.54.234.57",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Telecom Italia S.p.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "68.66.18.153",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Siena Heights University",
+        "deviceName": ""
+    },
+    {
+        "ip": "92.46.205.177",
+        "ports": [
+            81,
+            123,
+            53,
+            22,
+            389
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "TOOESIL",
+        "deviceName": ""
+    },
+    {
+        "ip": "68.168.92.133",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Predictive Edge",
+        "deviceName": ""
+    },
+    {
+        "ip": "54.39.211.167",
+        "ports": [
+            8000,
+            443,
+            80,
+            22,
+            123,
+            8094
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "AGA Medialab, Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "151.161.120.56",
+        "ports": [
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Lock Haven University",
+        "deviceName": ""
+    },
+    {
+        "ip": "169.47.141.150",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Jenzabar, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "67.78.137.32",
+        "ports": [
+            80,
+            8008,
+            443
+        ],
+        "os": null,
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "185.124.200.195",
+        "ports": [
+            443,
+            389,
+            135,
+            80,
+            593,
+            53,
+            88,
+            123,
+            3389
+        ],
+        "os": "Windows (Build 10.0.17763)",
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "JAUBERT CHRISTIAN trading as KALANDA",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "51.137.39.185",
+        "ports": [
+            3389
+        ],
+        "os": "Windows (Build 6.3.9600)",
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "Microsoft Limited UK",
+        "deviceName": [
+            "cloud",
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "176.214.76.54",
+        "ports": [
+            5060,
+            389,
+            2000,
+            81,
+            21,
+            22,
+            3128,
+            123,
+            53
+        ],
+        "os": null,
+        "productName": "Asterisk PBX 18.15.0",
+        "vendorName": "CJSC ER-Telecom Holding Yaroslavl' branch",
+        "deviceName": ""
+    },
+    {
+        "ip": "85.237.57.24",
+        "ports": [
+            53
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "PJSC Rostelecom, Penza branch",
+        "deviceName": ""
+    },
+    {
+        "ip": "150.238.201.169",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "SoftLayer Technologies Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "192.190.254.3",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Campbellsville College",
+        "deviceName": ""
+    },
+    {
+        "ip": "2600:9000:2043:f200:9:1150:7980:874a",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "CloudFront httpd",
+        "vendorName": "Amazon.com, Inc.",
+        "deviceName": [
+            "cloud",
+            "cdn"
+        ]
+    },
+    {
+        "ip": "147.251.125.144",
+        "ports": [
+            2701,
+            135
+        ],
+        "os": null,
+        "productName": "Microsoft RPC Endpoint Mapper",
+        "vendorName": "Brno",
+        "deviceName": ""
+    },
+    {
+        "ip": "169.47.35.103",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Jenzabar, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "169.47.47.136",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Jenzabar, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "167.172.183.197",
+        "ports": [
+            22
+        ],
+        "os": "Ubuntu",
+        "productName": "OpenSSH",
+        "vendorName": "DigitalOcean, LLC",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "149.156.97.39",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "the network covers whole Krakow area",
+        "deviceName": ""
+    },
+    {
+        "ip": "219.138.145.116",
+        "ports": [
+            80,
+            18081,
+            8443,
+            9443,
+            23
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "CHINANET hubei province network",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "196.12.203.52",
+        "ports": [
+            80,
+            8008,
+            443
+        ],
+        "os": null,
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "This class C is dedicated for Al 'Akhawayne University (netname AUI) Internet access project in the city of Ifrane.",
+        "deviceName": ""
+    },
+    {
+        "ip": "12.238.201.131",
+        "ports": [
+            80,
+            110
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "ICS SOLUTIONS",
+        "deviceName": ""
+    },
+    {
+        "ip": "192.245.43.100",
+        "ports": [
+            80,
+            8008,
+            443,
+            8020,
+            8015
+        ],
+        "os": null,
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Central Methodist University",
+        "deviceName": ""
+    },
+    {
+        "ip": "178.19.148.18",
+        "ports": [
+            995,
+            1194,
+            2222,
+            80,
+            502,
+            443
+        ],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "INTRED S.P.A.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "136.175.60.37",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Montreat College",
+        "deviceName": ""
+    },
+    {
+        "ip": "18.253.196.76",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Amazon Technologies Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "149.156.97.39",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "the network covers whole Krakow area",
+        "deviceName": ""
+    },
+    {
+        "ip": "4.198.66.41",
+        "ports": [
+            3389
+        ],
+        "os": "Windows (Build 10.0.20348)",
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "Microsoft Corporation",
+        "deviceName": [
+            "cloud",
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "91.215.90.78",
+        "ports": [
+            993,
+            995,
+            1701,
+            10001,
+            587,
+            110,
+            143,
+            465,
+            53,
+            25,
+            1723,
+            444
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Dagomys Telecom LLC",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "63.33.217.124",
+        "ports": [
+            80,
+            443,
+            22
+        ],
+        "os": "Ubuntu",
+        "productName": "nginx",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "84.54.203.214",
+        "ports": [
+            993,
+            465,
+            80,
+            81,
+            53,
+            25,
+            443,
+            636,
+            445
+        ],
+        "os": null,
+        "productName": "Samba",
+        "vendorName": "OJSC Rostelecom Macroregional Branch South",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "195.239.162.186",
+        "ports": [
+            5060,
+            53,
+            445
+        ],
+        "os": null,
+        "productName": "Asterisk PBX 18.15.0",
+        "vendorName": "111250 Russia SOVINTEL/EDN et Sovam Teleport",
+        "deviceName": ""
+    },
+    {
+        "ip": "218.19.216.152",
+        "ports": [
+            99,
+            135,
+            11211,
+            5357,
+            80,
+            88,
+            1433,
+            3389
+        ],
+        "os": null,
+        "productName": "Memcached",
+        "vendorName": "CHINANET guangdong province network",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "12.10.11.244",
+        "ports": [
+            443
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "DANNA MCKITRICK PC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "95.189.103.38",
+        "ports": [
+            53
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "OJSC Sibirtelecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "160.153.254.40",
+        "ports": [
+            5985,
+            135,
+            445,
+            80,
+            1521,
+            443,
+            3389
+        ],
+        "os": "Windows (Build 10.0.14393)",
+        "productName": "WinRM",
+        "vendorName": "GoDaddy.com, LLC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "85.192.32.152",
+        "ports": [
+            993,
+            5000,
+            143,
+            80,
+            465,
+            25,
+            443
+        ],
+        "os": null,
+        "productName": "Docker Registry HTTP API",
+        "vendorName": "VK Cloud Solutions",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "38.125.168.141",
+        "ports": [
+            161,
+            22,
+            2601
+        ],
+        "os": null,
+        "productName": "Quagga routing software",
+        "vendorName": "National Public Radio, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "87.125.193.119",
+        "ports": [
+            443,
+            5060,
+            2222,
+            22,
+            8443
+        ],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "VODAFONE ESPANA S.A.U.",
+        "deviceName": ""
+    },
+    {
+        "ip": "72.11.2.204",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Metalink Technologies, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "207.54.51.252",
+        "ports": [
+            80,
+            443
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Infor (US) Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "96.2.205.159",
+        "ports": [
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "DAKOTA WESLEYAN UNIVERSITY",
+        "deviceName": ""
+    },
+    {
+        "ip": "95.163.251.31",
+        "ports": [
+            993,
+            5000,
+            143,
+            80,
+            465,
+            25,
+            443
+        ],
+        "os": null,
+        "productName": "Docker Registry HTTP API",
+        "vendorName": "VK Cloud Solutions",
+        "deviceName": [
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "52.29.247.243",
+        "ports": [
+            80,
+            22
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "A100 ROW GmbH",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "185.237.58.14",
+        "ports": [
+            8889
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "INTERKAM sp. z o.o.",
+        "deviceName": ""
+    },
+    {
+        "ip": "208.71.235.55",
+        "ports": [
+            80,
+            443
+        ],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Berry College",
+        "deviceName": ""
     }
 ]
